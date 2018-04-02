@@ -26,7 +26,7 @@
 					<input type="text" name="login" placeholder="ЛОГИН"><br>
 					<input type="password" name="password" placeholder="ПАРОЛЬ"><br>
 					<button>ВХОД</button>
-					<a href="checkin1.php" class="text2">ЗАРЕГЕСТРИРОВАТЬСЯ</a>
+					<a href="reg.php" class="text2">ЗАРЕГЕСТРИРОВАТЬСЯ</a>
 				</form>
 			</div>
 		</div>
