@@ -17,7 +17,7 @@
 					<input type="password" name="password" placeholder="ПАРОЛЬ"><br>
 					<input type="password" name="password2" placeholder="ПРОВЕРКА ПАРОЛЯ"><br>
 					<button>ЗАРЕГЕСТРИРОВАТЬСЯ</button>
-					<a href="login1.php" class="text2">ВХОД</a>
+					<a href="login.php" class="text2">ВХОД</a>
 				</form>
 			</div>
 		</div>
